@@ -16,8 +16,19 @@ A basic UART system provides robust, moderate-speed, full-duplex communication w
 
 ## TRANSMISSION
 <p align="center">
-<img src=
- 
+<img src=images/download.png>
+</p>
+
+1. Start bit: The first bit of a one-byte UART transmission. It indicates that the data line is leaving its idle state. The idle state is typically logic high, so the start bit is logic low.
+2. Stop bit:The last bit of a one-byte UART transmission. Its logic level is the same as the signal’s idle state, i.e., logic high. This is another overhead bit.
+3. Baud rate:The approximate rate (in bits per second, or bps) at which data can be transferred. A more precise definition is the frequency (in bps) corresponding to the time (in seconds) required to transmit one bit of digital data.
+4. parity bit:An error-detection bit added to the end of the byte.
+
+## OUTPUT WAVEFORM
+<p align="center".
+<img src=images/Screenshot 2024-08-30 143052.png>
+</p>
+
 
 
 
