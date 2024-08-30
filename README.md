@@ -26,7 +26,8 @@ A basic UART system provides robust, moderate-speed, full-duplex communication w
 
 ## OUTPUT WAVEFORM
 <p align="center".
-<img src=
+<img src=images/Screenshot 2024-08-30 143052.png>
+</p>
 
 
 
