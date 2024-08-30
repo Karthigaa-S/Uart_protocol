@@ -25,8 +25,8 @@ A basic UART system provides robust, moderate-speed, full-duplex communication w
 4. parity bit:An error-detection bit added to the end of the byte.
 
 ## OUTPUT WAVEFORM
-<p align="center".
-<img src=images/Screenshot 2024-08-30 143052.png>
+<p align="center">
+<img src=images/ssfinal.png >
 </p>
 
 
